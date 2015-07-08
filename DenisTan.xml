@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Denis Tan</title>
+		<link>https://denis-tan.github.io/</link>
+		<description>Blog: Opinions are mine alone.</description>
+		<item>
+		<title>Reflections: Luck, Knowledge, and Responsibilities</title>
+		<link>https://denis-tan.github.io/post_130615.html</link>
+		<guid>https://denis-tan.github.io/post_130615.html</guid>
+		<pubDate>Sat, 13 Jun 2015 00:00:00 GMT</pubDate>
+		<description>Excerpt from valediction delivered on July 14, 2014 at the National University of Singapore</description>
+		</item>
+		<item>
+		<title>Evolving Aspirations</title>
+		<link>https://denis-tan.github.io/post_050715.html</link>
+		<guid>https://denis-tan.github.io/post_050715.html</guid>
+		<pubDate>Sat, 5 Jul 2015 00:00:00 GMT</pubDate>
+		<description>Reflections from a recent youth forum</description>
+		</item>
+	</channel>
+</rss>
+
